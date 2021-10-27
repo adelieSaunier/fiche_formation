@@ -133,13 +133,16 @@ je rajoute ma transition pour animer son comportement*/
 }
 
 .blue_subtitle{
-  border: #9fcaff 1px solid;
+  
   text-align: center;
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #989DF7;
-  color: #ffff;
-  border-radius: 30px;
+  /*background-color: #989df785;
+  border: #bbd6f7c5 1px solid;
+  color: #ffff;*/
+  /*border-radius: 32px;*/
+  border-bottom: #989df785 2px solid;
+  color:#6b72f7 ;
   font-weight: 500;
 }
 .details{
@@ -151,6 +154,7 @@ je rajoute ma transition pour animer son comportement*/
 .medium_font{
   font-size: 16px;
 }
+
 .weight_strong{
   font-weight: 500;
 }
@@ -159,8 +163,8 @@ je rajoute ma transition pour animer son comportement*/
   text-align: center;
 }
 
-.padd-top-100{
-  padding-top: 100px;
+.padd-top-40{
+  padding-top: 40px;
 }
 
 .padd-bot-20{
